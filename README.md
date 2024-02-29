@@ -10,6 +10,7 @@ I love to play Indie and Story themed video games.
 I am also a big fan of science-fiction TV shows and movies.
 I love to listen to R&B songs and recently developed an interest for east-asian R&B music.
 
+## My Favourite Code snippet
 
 ```python
 guess = input("Choose a one digit number\n")
